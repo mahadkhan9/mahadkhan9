@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mahad K</h1>
-<h3 align="left">I love solving complex business problems and formulating business strategies/ decisions using data analysis and AI automations.</h3>
+<h3 align="left">I love solving complex business problems and formulating business strategies and decisions backed by data analytics and insights.</h3>
 
 - 🔭 I’m currently working as a **Business Analyst**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **Data Science Hackathons**
 
-- - 🎧 I love listening to **Data Skeptic, Data Framed and Making Data Simple**
+- 🎧 I love listening to **Data Skeptic, Data Framed, and Making Data Simple**
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit](https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit)
 
