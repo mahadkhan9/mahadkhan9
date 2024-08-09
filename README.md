@@ -11,7 +11,7 @@
 
 - 🎧 I love listening to **Data Skeptic, Data Framed, and Making Data Simple**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit](https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit)
+- 👨‍💻 My recent project report is available at [https://tinyurl.com/avsurveyanalysis](https://tinyurl.com/avsurveyanalysis)
 
 - 📝 I make videos on [https://www.instagram.com/seekwithmahad/](https://www.instagram.com/seekwithmahad/)
 
