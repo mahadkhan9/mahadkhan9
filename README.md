@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Data Science in Python**
 
-- 👯 I’m currently building **AI onboarding bot**
+- 👯 I’m currently building an **AI onboarding bot**
 
-- 🤝 I’m looking to collaborate on **Data Science competitions**
+- 🤝 I’m looking to collaborate on **Data Science Hackathons**
+
+- - 🎧 I love listening to **Data Skeptic, Data Framed and Making Data Simple**
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit](https://docs.google.com/document/d/19xVLFJgL5-Ksn5DY51m0Ul6Z2hX37Z-VYjIMgNbVl1g/edit)
 
