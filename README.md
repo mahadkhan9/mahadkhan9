@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Business Analyst**
 
-- 🌱 I’m currently learning **Python (data science methodologies)**
+- 🌱 I’m currently learning **Data Science in Python**
 
 - 👯 I’m currently building **AI onboarding bot**
 
