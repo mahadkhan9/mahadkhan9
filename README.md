@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahad K</h1>
-<h3 align="center">I love solving complex business problems and formulate business strategies/ decisions using data analysis.</h3>
+<h3 align="center">I love solving complex business problems and formulating business strategies/ decisions using data analysis and AI automations.</h3>
 
 - 🔭 I’m currently working as a **Business Analyst**
 
